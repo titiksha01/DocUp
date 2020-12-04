@@ -36,7 +36,7 @@ class _HomeState extends State<Home> {
       appBar: AppBar(
         backgroundColor: Colors.blueGrey[900],
         title: Center(
-          child: Text('ScanAway', style: TextStyle(color: Colors.white, fontSize: 24),
+          child: Text('DocUp', style: TextStyle(color: Colors.white, fontSize: 24),
           ),
         ),
         actions: <Widget>[
