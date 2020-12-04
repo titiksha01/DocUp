@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "468347615584",
+    "project_id": "docup-a3147",
+    "storage_bucket": "docup-a3147.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:468347615584:android:bd9202a65239cebd88c605",
+        "android_client_info": {
+          "package_name": "com.example.docup"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "468347615584-h33cluij6vo2qkatalv9hkj7g40b9np2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.docup",
+            "certificate_hash": "3ba48bdf98107a8ddb8abeb8bd8c3a2aed691258"
+          }
+        },
+        {
+          "client_id": "468347615584-saa5gfdnm24l8kj3vhgbvpf36i4jfgj7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC1wrJ_MWCqwHR3rklyXtasTl2oXIv7Wy4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "468347615584-saa5gfdnm24l8kj3vhgbvpf36i4jfgj7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
