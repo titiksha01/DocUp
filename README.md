@@ -1,16 +1,15 @@
-# docup
+# DocUp
 
-A new Flutter application.
+### Group Members:
 
-## Getting Started
+1. Titiksha Sharma
+2. Ishita Gosain
+3. Anshee Mongia
 
-This project is a starting point for a Flutter application.
+### Target Audience
+Students
 
-A few resources to get you started if this is your first Flutter project:
+### Intro
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- DocUp is an flutter application that enables users to rotate, crop and apply filters on selected images.
+- User can make a document by adding or deleting pages and then convering the document to PDF format.
